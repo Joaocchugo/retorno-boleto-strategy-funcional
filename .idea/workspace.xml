@@ -65,6 +65,9 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\dreed\Desktop\retorno-boleto-funcional\src\main\resources" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -185,7 +188,7 @@
       <workItem from="1708945979834" duration="3663000" />
       <workItem from="1709551029326" duration="1794000" />
       <workItem from="1738950319375" duration="2317000" />
-      <workItem from="1738953338092" duration="419000" />
+      <workItem from="1738953338092" duration="569000" />
     </task>
     <servers />
   </component>

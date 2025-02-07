@@ -21,10 +21,6 @@ public class ProcessadorBoletos {
         this.leituraRetorno = leituraRetorno;
     }
 
-    /**
-     * Implementação do comportamento (estratégia)
-     * de leitura de arquivos de boleto do Banco do Brasil.
-     */
     public static List<Boleto> lerBancoBrasil(URI caminhoArquivo) {
         try {
             var listaLinhas = Files.readAllLines(Paths.get(caminhoArquivo));
